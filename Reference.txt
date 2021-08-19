@@ -1,0 +1,6 @@
+-- SEASONALITY AND TREND
+https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788
+-- SKLEARNER 
+https://scikit-learn.org/stable/modules/gaussian_process.html 
+--EXAMPLE
+https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_noisy_targets.html# 
